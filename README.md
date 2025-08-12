@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Guilherme Ferreira De Lima
+Matricula: 902424
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela de inspeção com navegador](images/tela_inspecao.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Tela de projeto no Replit](images/projeto_replit.png)
 
 
 ## Orientações sobre Linguagem MarkDown
